@@ -37,6 +37,15 @@
       "totalChapters": 65
     },
     {
+      "id": "harry-potter-and-the-sorcerer-s-stone",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "",
+      "totalWords": 83084,
+      "totalPages": 84,
+      "totalChapters": 17
+    },
+    {
       "id": "his-dark-materials-the-complete-trilogy",
       "title": "His Dark Materials: The Complete Trilogy",
       "author": "Philip Pullman",
@@ -361,5 +370,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-04T21:39:08.490Z"
+  "updatedAt": "2026-05-07T01:27:04.891Z"
 }
