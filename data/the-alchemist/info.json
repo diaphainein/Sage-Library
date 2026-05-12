@@ -1,0 +1,103 @@
+{
+  "id": "the-alchemist",
+  "title": "The Alchemist",
+  "author": "Coelho, Paulo",
+  "description": "",
+  "filename": "The Alchemist -- Paulo Coelho;Alan R_ Clarke (transl) -- 25th Anniversary Edition, 2015 -- HarperCollins Publishers -- isbn13 9780062315007 -- 6e8fad6484bee0d983a627cdbf139e6b -- Anna’s Archive.epub",
+  "totalWords": 42702,
+  "totalPages": 43,
+  "totalChapters": 13,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Contents",
+      "wordCount": 40,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 726,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 880,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 254,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 11145,
+      "pageCount": 12,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 27222,
+      "pageCount": 28,
+      "startPage": 17
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 564,
+      "pageCount": 1,
+      "startPage": 45
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 60,
+      "pageCount": 1,
+      "startPage": 46
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 1080,
+      "pageCount": 2,
+      "startPage": 47
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 356,
+      "pageCount": 1,
+      "startPage": 49
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 54,
+      "pageCount": 1,
+      "startPage": 50
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 243,
+      "pageCount": 1,
+      "startPage": 51
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 78,
+      "pageCount": 1,
+      "startPage": 52
+    }
+  ]
+}

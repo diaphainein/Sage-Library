@@ -172,6 +172,15 @@
       "totalChapters": 12
     },
     {
+      "id": "the-alchemist",
+      "title": "The Alchemist",
+      "author": "Coelho, Paulo",
+      "description": "",
+      "totalWords": 42702,
+      "totalPages": 43,
+      "totalChapters": 13
+    },
+    {
       "id": "the-alignment-problem",
       "title": "The Alignment Problem",
       "author": "Brian Christian",
@@ -415,5 +424,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T17:03:20.758Z"
+  "updatedAt": "2026-05-12T19:22:27.168Z"
 }
