@@ -1,0 +1,124 @@
+{
+  "id": "cloud-atlas",
+  "title": "Cloud Atlas",
+  "author": "David Mitchell",
+  "description": "",
+  "filename": "Cloud Atlas -- David Mitchell -- 2004 -- Random House Publishing Group -- 39487b5d5325166ce35c43058267e11a -- Anna’s Archive.epub",
+  "totalWords": 164059,
+  "totalPages": 165,
+  "totalChapters": 16,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 366,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Copyright",
+      "wordCount": 136,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Contents",
+      "wordCount": 70,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Acknowledgments",
+      "wordCount": 137,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 1 - The Pacific Journal of Adam Ewing",
+      "wordCount": 13264,
+      "pageCount": 14,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 2 - Letters from Zedelghem",
+      "wordCount": 15364,
+      "pageCount": 16,
+      "startPage": 19
+    },
+    {
+      "index": 7,
+      "title": "Chapter 3 - Half-Lives: The First Luisa Rey Mystery",
+      "wordCount": 16813,
+      "pageCount": 17,
+      "startPage": 35
+    },
+    {
+      "index": 8,
+      "title": "Chapter 4 - The Ghastly Ordeal of Timothy Cavendish",
+      "wordCount": 12506,
+      "pageCount": 13,
+      "startPage": 52
+    },
+    {
+      "index": 9,
+      "title": "Chapter 5 - An Orison Of Sonmi∼451",
+      "wordCount": 16662,
+      "pageCount": 17,
+      "startPage": 65
+    },
+    {
+      "index": 10,
+      "title": "Chapter 6 - Sloosha’s Crossin’ An’ EV’Rythin’ After",
+      "wordCount": 27469,
+      "pageCount": 28,
+      "startPage": 82
+    },
+    {
+      "index": 11,
+      "title": "Chapter 7 - An Orison of Sonmi∼451",
+      "wordCount": 11935,
+      "pageCount": 12,
+      "startPage": 110
+    },
+    {
+      "index": 12,
+      "title": "Chapter 8 - The Ghastly Ordeal of Timothy Cavendish",
+      "wordCount": 11648,
+      "pageCount": 12,
+      "startPage": 122
+    },
+    {
+      "index": 13,
+      "title": "Chapter 9 - Half-Lives: The First Luisa Rey Mystery",
+      "wordCount": 14030,
+      "pageCount": 15,
+      "startPage": 134
+    },
+    {
+      "index": 14,
+      "title": "Chapter 10 - Letters from Zedelghem",
+      "wordCount": 11444,
+      "pageCount": 12,
+      "startPage": 149
+    },
+    {
+      "index": 15,
+      "title": "Chapter 11 - The Pacific Journal of Adam Ewing",
+      "wordCount": 12120,
+      "pageCount": 13,
+      "startPage": 161
+    },
+    {
+      "index": 16,
+      "title": "About the Author",
+      "wordCount": 95,
+      "pageCount": 1,
+      "startPage": 174
+    }
+  ]
+}

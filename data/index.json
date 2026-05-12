@@ -10,6 +10,15 @@
       "totalChapters": 24
     },
     {
+      "id": "cloud-atlas",
+      "title": "Cloud Atlas",
+      "author": "David Mitchell",
+      "description": "",
+      "totalWords": 164059,
+      "totalPages": 165,
+      "totalChapters": 16
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -127,6 +136,15 @@
       "totalChapters": 35
     },
     {
+      "id": "pale-fire",
+      "title": "Pale Fire",
+      "author": "Vladimir Nabokov",
+      "description": "",
+      "totalWords": 80965,
+      "totalPages": 81,
+      "totalChapters": 17
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -235,6 +253,15 @@
       "totalChapters": 24
     },
     {
+      "id": "the-raw-shark-texts",
+      "title": "The Raw Shark Texts",
+      "author": "Steven Hall",
+      "description": "",
+      "totalWords": 105936,
+      "totalPages": 106,
+      "totalChapters": 42
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -251,6 +278,15 @@
       "totalWords": 31105,
       "totalPages": 32,
       "totalChapters": 12
+    },
+    {
+      "id": "the-sound-and-the-fury",
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "description": "",
+      "totalWords": 96945,
+      "totalPages": 97,
+      "totalChapters": 20
     },
     {
       "id": "the-summer-queen",
@@ -296,6 +332,15 @@
       "totalWords": 89366,
       "totalPages": 90,
       "totalChapters": 18
+    },
+    {
+      "id": "the-little-prince",
+      "title": "The little prince",
+      "author": "Antoine de Saint-Exupéry",
+      "description": "SUMMARY: Few stories are as widely read and as universally cherished by children and adults alike as The Little Prince. Richard Howard's new translation of the beloved classic-published to commemorate the 100th anniversary of Antoine de Saint-Exupéry's birth-beautifully reflects Saint-Exupéry's unique and gifted style. Howard, an acclaimed poet and one of the preeminent translators of our time, has excelled in bringing the English text as close as possible to the French, in language, style, and ",
+      "totalWords": 17464,
+      "totalPages": 18,
+      "totalChapters": 29
     },
     {
       "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
@@ -370,5 +415,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-07T01:27:04.891Z"
+  "updatedAt": "2026-05-12T17:03:20.758Z"
 }
