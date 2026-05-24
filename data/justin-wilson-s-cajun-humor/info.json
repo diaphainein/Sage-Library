@@ -1,0 +1,47 @@
+{
+  "id": "justin-wilson-s-cajun-humor",
+  "title": "Justin Wilson's Cajun humor",
+  "author": "Wilson, Justin, 1914-2001;Jacobs, Howard",
+  "description": "",
+  "filename": "Justin Wilson's Cajun Humor, -- Wilson, Justin, 1914-2001, Jacobs, Howard -- Gretna [La_], Louisiana, 1974 -- Gretna [La_] Pelican Pub_ Co_ -- isbn13 9780882890173 -- ef2bf09901f977478102592b16da9a63 -- Anna’s Arch.pdf",
+  "totalWords": 20173,
+  "totalPages": 21,
+  "totalChapters": 5,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 16
+    },
+    {
+      "index": 5,
+      "title": "Part 5",
+      "wordCount": 173,
+      "pageCount": 1,
+      "startPage": 21
+    }
+  ]
+}

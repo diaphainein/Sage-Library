@@ -82,6 +82,15 @@
       "totalChapters": 40
     },
     {
+      "id": "justin-wilson-s-cajun-humor",
+      "title": "Justin Wilson's Cajun humor",
+      "author": "Wilson, Justin, 1914-2001;Jacobs, Howard",
+      "description": "",
+      "totalWords": 20173,
+      "totalPages": 21,
+      "totalChapters": 5
+    },
+    {
       "id": "learning-to-love-the-spaces-in-between",
       "title": "Learning to Love the Spaces in Between",
       "author": "Claire Gillman",
@@ -127,6 +136,15 @@
       "totalChapters": 3
     },
     {
+      "id": "more-cajun-humor",
+      "title": "More Cajun humor",
+      "author": "Wilson, Justin, 1914-2001",
+      "description": "",
+      "totalWords": 27901,
+      "totalPages": 28,
+      "totalChapters": 6
+    },
+    {
       "id": "discworld-04-mort",
       "title": "Discworld 04 - Mort",
       "author": "Pratchett, Terry",
@@ -143,6 +161,15 @@
       "totalWords": 282397,
       "totalPages": 283,
       "totalChapters": 35
+    },
+    {
+      "id": "new-orleans",
+      "title": "New Orleans",
+      "author": "Elizabeth M. Williams",
+      "description": "Beignets, Po' Boys, gumbo, jambalaya, Antoine's. New Orleans' celebrated status derives in large measure from its incredibly rich food culture, based mainly on Creole and Cajun traditions. At last, this world-class destination has its own food biography. Elizabeth M. Williams, a New Orleans native and founder of the Southern Food and Beverage Museum there, takes readers through the history of the city, showing how the natural environment and people have shaped the cooking we all love. The narrat",
+      "totalWords": 75822,
+      "totalPages": 76,
+      "totalChapters": 19
     },
     {
       "id": "pale-fire",
@@ -253,6 +280,15 @@
       "totalChapters": 6
     },
     {
+      "id": "the-land-of-the-five-flavors",
+      "title": "The Land of the Five Flavors",
+      "author": "Thomas O. Höllmann, Karen Margolis",
+      "description": "",
+      "totalWords": 66991,
+      "totalPages": 67,
+      "totalChapters": 14
+    },
+    {
       "id": "the-left-hand-of-darkness",
       "title": "The Left Hand Of Darkness",
       "author": "Ursula K. Le Guin",
@@ -361,6 +397,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-world-history-of-beekeeping-and-honey-hunting",
+      "title": "The World History of Beekeeping and Honey Hunting",
+      "author": "Eva Crane",
+      "description": "",
+      "totalWords": 382168,
+      "totalPages": 383,
+      "totalChapters": 67
+    },
+    {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
       "title": "The Art of Gathering: How We Meet and Why It Matters",
       "author": "Priya Parker",
@@ -451,5 +496,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-24T21:56:46.957Z"
+  "updatedAt": "2026-05-24T23:24:15.538Z"
 }

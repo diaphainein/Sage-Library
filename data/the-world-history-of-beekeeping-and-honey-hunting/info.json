@@ -1,0 +1,481 @@
+{
+  "id": "the-world-history-of-beekeeping-and-honey-hunting",
+  "title": "The World History of Beekeeping and Honey Hunting",
+  "author": "Eva Crane",
+  "description": "",
+  "filename": "The World History of Beekeeping and Honey Hunting -- Eva Crane -- Routledge -- 978ac52d8f214a440265fe34aa42624c -- Anna’s Archive.epub",
+  "totalWords": 382168,
+  "totalPages": 383,
+  "totalChapters": 67,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 139,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 2635,
+      "pageCount": 3,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "List of Tables",
+      "wordCount": 548,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 4,
+      "title": "Preface",
+      "wordCount": 650,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 5,
+      "title": "Acknowledgements",
+      "wordCount": 506,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 49,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 7,
+      "title": "1. The Structure of the Book",
+      "wordCount": 1819,
+      "pageCount": 2,
+      "startPage": 9
+    },
+    {
+      "index": 8,
+      "title": "2. The Ancestry of Honey-Storing Insects",
+      "wordCount": 1415,
+      "pageCount": 2,
+      "startPage": 11
+    },
+    {
+      "index": 9,
+      "title": "3. Honey-Storing Insects and their World Distribution",
+      "wordCount": 4466,
+      "pageCount": 5,
+      "startPage": 13
+    },
+    {
+      "index": 10,
+      "title": "4. Features of Honey Bees in Relation to their Use by Man",
+      "wordCount": 3008,
+      "pageCount": 4,
+      "startPage": 18
+    },
+    {
+      "index": 11,
+      "title": "5. Animals other than Man in Relation to Bees",
+      "wordCount": 3835,
+      "pageCount": 4,
+      "startPage": 22
+    },
+    {
+      "index": 12,
+      "title": "6. Man’s First Interactions with Bees and Honey",
+      "wordCount": 3043,
+      "pageCount": 4,
+      "startPage": 26
+    },
+    {
+      "index": 13,
+      "title": "7. Honey and Bee Hunting, with Examples in the Mediterranean Region and Middle East",
+      "wordCount": 4111,
+      "pageCount": 5,
+      "startPage": 30
+    },
+    {
+      "index": 14,
+      "title": "8. Honey Hunting in Africa South of the Sahara",
+      "wordCount": 6601,
+      "pageCount": 7,
+      "startPage": 35
+    },
+    {
+      "index": 15,
+      "title": "9. Honey Hunting in Temperate-Zone Europe",
+      "wordCount": 5421,
+      "pageCount": 6,
+      "startPage": 42
+    },
+    {
+      "index": 16,
+      "title": "10. Honey Hunting in Asia East of Persia",
+      "wordCount": 5773,
+      "pageCount": 6,
+      "startPage": 48
+    },
+    {
+      "index": 17,
+      "title": "11. Honey Hunting in the Americas and Oceania: Stingless Bees",
+      "wordCount": 6560,
+      "pageCount": 7,
+      "startPage": 54
+    },
+    {
+      "index": 18,
+      "title": "12. Honey and Bee Hunting in the Americas and Oceania: Introduced Honey Bees",
+      "wordCount": 4588,
+      "pageCount": 5,
+      "startPage": 61
+    },
+    {
+      "index": 19,
+      "title": "13. Honey Hunting: Bumble Bees, Honey-Storing Wasps and Honey Ants",
+      "wordCount": 2614,
+      "pageCount": 3,
+      "startPage": 66
+    },
+    {
+      "index": 20,
+      "title": "14. Ownership of Nests and Nest Sites: General Features, and Apis mellifera Nests",
+      "wordCount": 5508,
+      "pageCount": 6,
+      "startPage": 69
+    },
+    {
+      "index": 21,
+      "title": "15. Ownership, and Rights of Using, Nests and Nest Sites in Asia East of Persia",
+      "wordCount": 6780,
+      "pageCount": 7,
+      "startPage": 75
+    },
+    {
+      "index": 22,
+      "title": "16. Cavity Nests of Honey Bees: Tending and Beekeeping",
+      "wordCount": 7858,
+      "pageCount": 8,
+      "startPage": 82
+    },
+    {
+      "index": 23,
+      "title": "17. Cavity Nests of Other Honey-Storing Insects: Ownership and Tending",
+      "wordCount": 1776,
+      "pageCount": 2,
+      "startPage": 90
+    },
+    {
+      "index": 24,
+      "title": "18. The Giant Honey Bee Apis dorsata: Tending and Beekeeping",
+      "wordCount": 3560,
+      "pageCount": 4,
+      "startPage": 92
+    },
+    {
+      "index": 25,
+      "title": "19. The Dwarf Honey Bee Apis florea: Tending and Beekeeping",
+      "wordCount": 1995,
+      "pageCount": 2,
+      "startPage": 96
+    },
+    {
+      "index": 26,
+      "title": "20. Originations of Hive Beekeeping, and Its Early Development in Egypt",
+      "wordCount": 6342,
+      "pageCount": 7,
+      "startPage": 98
+    },
+    {
+      "index": 27,
+      "title": "21. Traditional Hive Beekeeping to the East, South and West of the Mediterranean",
+      "wordCount": 7378,
+      "pageCount": 8,
+      "startPage": 105
+    },
+    {
+      "index": 28,
+      "title": "22. Traditional Hive Beekeeping in Mediterranean Islands",
+      "wordCount": 6420,
+      "pageCount": 7,
+      "startPage": 113
+    },
+    {
+      "index": 29,
+      "title": "23. Traditional Hive Beekeeping in Ancient Greece",
+      "wordCount": 3847,
+      "pageCount": 4,
+      "startPage": 120
+    },
+    {
+      "index": 30,
+      "title": "24. Traditional Hive Beekeeping in the Roman World",
+      "wordCount": 5449,
+      "pageCount": 6,
+      "startPage": 124
+    },
+    {
+      "index": 31,
+      "title": "25. Traditional Hive Beekeeping in Europe I. The South",
+      "wordCount": 8383,
+      "pageCount": 9,
+      "startPage": 130
+    },
+    {
+      "index": 32,
+      "title": "26. Traditional Hive Beekeeping in Europe II. The Northern Forest Zone",
+      "wordCount": 6870,
+      "pageCount": 7,
+      "startPage": 139
+    },
+    {
+      "index": 33,
+      "title": "27. Traditional Hive Beekeeping in Europe HI. West of the Forest Zone",
+      "wordCount": 10743,
+      "pageCount": 11,
+      "startPage": 146
+    },
+    {
+      "index": 34,
+      "title": "28. Traditional Hive Beekeeping in Africa South of the Sahara",
+      "wordCount": 6534,
+      "pageCount": 7,
+      "startPage": 157
+    },
+    {
+      "index": 35,
+      "title": "29. Traditional Hive Beekeeping in Asia East of Persia",
+      "wordCount": 11280,
+      "pageCount": 12,
+      "startPage": 164
+    },
+    {
+      "index": 36,
+      "title": "30. Traditional Hive Beekeeping with Stingless Bees",
+      "wordCount": 7863,
+      "pageCount": 8,
+      "startPage": 176
+    },
+    {
+      "index": 37,
+      "title": "31. Traditional Hive Beekeeping with Honey Bees in the Americas and Oceania",
+      "wordCount": 5579,
+      "pageCount": 6,
+      "startPage": 184
+    },
+    {
+      "index": 38,
+      "title": "32. History of Apiaries",
+      "wordCount": 6222,
+      "pageCount": 7,
+      "startPage": 190
+    },
+    {
+      "index": 39,
+      "title": "33. History of Protective Measures against Stinging by Bees",
+      "wordCount": 7025,
+      "pageCount": 8,
+      "startPage": 197
+    },
+    {
+      "index": 40,
+      "title": "34. History of Controlling Bees with Smoke and Other Substances",
+      "wordCount": 3143,
+      "pageCount": 4,
+      "startPage": 205
+    },
+    {
+      "index": 41,
+      "title": "35. History of Migratory Beekeeping",
+      "wordCount": 3867,
+      "pageCount": 4,
+      "startPage": 209
+    },
+    {
+      "index": 42,
+      "title": "36. Transport and Spread of Honey Bees around the World",
+      "wordCount": 15089,
+      "pageCount": 16,
+      "startPage": 213
+    },
+    {
+      "index": 43,
+      "title": "37. History of Observation Hives",
+      "wordCount": 2834,
+      "pageCount": 3,
+      "startPage": 229
+    },
+    {
+      "index": 44,
+      "title": "38. Beekeeping Using Improved Traditional Fixed-Comb Hives",
+      "wordCount": 4229,
+      "pageCount": 5,
+      "startPage": 232
+    },
+    {
+      "index": 45,
+      "title": "39. Traditional Movable-Comb Hives with Top-Bars",
+      "wordCount": 4935,
+      "pageCount": 5,
+      "startPage": 237
+    },
+    {
+      "index": 46,
+      "title": "40. Rational Improvements in Hives, 1649-1851",
+      "wordCount": 9541,
+      "pageCount": 10,
+      "startPage": 242
+    },
+    {
+      "index": 47,
+      "title": "41. Impact of Langstroth’s Movable-Frame Hive on World Beekeeping",
+      "wordCount": 10655,
+      "pageCount": 11,
+      "startPage": 252
+    },
+    {
+      "index": 48,
+      "title": "42. History of Beekeepers’ Associations and Beekeeping Journals",
+      "wordCount": 5567,
+      "pageCount": 6,
+      "startPage": 263
+    },
+    {
+      "index": 49,
+      "title": "43. Inventions and Advances that made Movable-Frame Beekeeping more Productive",
+      "wordCount": 4531,
+      "pageCount": 5,
+      "startPage": 269
+    },
+    {
+      "index": 50,
+      "title": "44. History of Rearing Queens and Bees for Beekeeping",
+      "wordCount": 3972,
+      "pageCount": 4,
+      "startPage": 274
+    },
+    {
+      "index": 51,
+      "title": "45. History of the Use of Bees for Crop Pollination",
+      "wordCount": 5218,
+      "pageCount": 6,
+      "startPage": 278
+    },
+    {
+      "index": 52,
+      "title": "46. History of the Treatment of Honey and Beeswax, and their Trade",
+      "wordCount": 10634,
+      "pageCount": 11,
+      "startPage": 284
+    },
+    {
+      "index": 53,
+      "title": "47. History of the Uses of Honey",
+      "wordCount": 7388,
+      "pageCount": 8,
+      "startPage": 295
+    },
+    {
+      "index": 54,
+      "title": "48. History of Drinks Made by the Fermentation of Honey",
+      "wordCount": 6534,
+      "pageCount": 7,
+      "startPage": 303
+    },
+    {
+      "index": 55,
+      "title": "49. History of the Uses of Beeswax",
+      "wordCount": 8968,
+      "pageCount": 9,
+      "startPage": 310
+    },
+    {
+      "index": 56,
+      "title": "50. History of the Use of Bees as Stinging Insects",
+      "wordCount": 3493,
+      "pageCount": 4,
+      "startPage": 319
+    },
+    {
+      "index": 57,
+      "title": "51. History of Other Products from Bees",
+      "wordCount": 5300,
+      "pageCount": 6,
+      "startPage": 323
+    },
+    {
+      "index": 58,
+      "title": "52. The Growth of Knowledge about Honey Bees and their Products",
+      "wordCount": 14221,
+      "pageCount": 15,
+      "startPage": 329
+    },
+    {
+      "index": 59,
+      "title": "53. Bees and Beekeeping: History of Gender Roles",
+      "wordCount": 5950,
+      "pageCount": 6,
+      "startPage": 344
+    },
+    {
+      "index": 60,
+      "title": "54. Bees and Bee Products in World Religions",
+      "wordCount": 8333,
+      "pageCount": 9,
+      "startPage": 350
+    },
+    {
+      "index": 61,
+      "title": "Appendix 1. China: References to bees, beekeeping, honey and beeswax, from 2000 BC to AD 1600",
+      "wordCount": 1681,
+      "pageCount": 2,
+      "startPage": 359
+    },
+    {
+      "index": 62,
+      "title": "Appendix 2. List of some beekeeping museums",
+      "wordCount": 627,
+      "pageCount": 1,
+      "startPage": 361
+    },
+    {
+      "index": 63,
+      "title": "Bibliography",
+      "wordCount": 32644,
+      "pageCount": 33,
+      "startPage": 362
+    },
+    {
+      "index": 64,
+      "title": "Indexes: Index of Personal Names",
+      "wordCount": 1882,
+      "pageCount": 2,
+      "startPage": 395
+    },
+    {
+      "index": 65,
+      "title": "Index of Peoples",
+      "wordCount": 595,
+      "pageCount": 1,
+      "startPage": 397
+    },
+    {
+      "index": 66,
+      "title": "Geographical Index",
+      "wordCount": 6689,
+      "pageCount": 7,
+      "startPage": 398
+    },
+    {
+      "index": 67,
+      "title": "Subject Index",
+      "wordCount": 8455,
+      "pageCount": 9,
+      "startPage": 405
+    }
+  ]
+}

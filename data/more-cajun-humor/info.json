@@ -1,0 +1,54 @@
+{
+  "id": "more-cajun-humor",
+  "title": "More Cajun humor",
+  "author": "Wilson, Justin, 1914-2001",
+  "description": "",
+  "filename": "More Cajun humor -- Wilson, Justin, 1914-2001, Jacobs, Howard -- Gretna, La, Louisiana, 1984 -- Gretna, La_ _ Pelican Pub_ Co_ -- isbn13 9780882894546 -- df61d30900eb099afcb169ee17b5367a -- Anna’s Archive.pdf",
+  "totalWords": 27901,
+  "totalPages": 28,
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 16
+    },
+    {
+      "index": 5,
+      "title": "Part 5",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 6,
+      "title": "Part 6",
+      "wordCount": 2901,
+      "pageCount": 3,
+      "startPage": 26
+    }
+  ]
+}
