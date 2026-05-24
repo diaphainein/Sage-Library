@@ -46,6 +46,15 @@
       "totalChapters": 65
     },
     {
+      "id": "good-omens",
+      "title": "Good Omens",
+      "author": "Neil Gaiman",
+      "description": "The world will end on Saturday. Next Saturday. Just before dinner, according to The Nice and Accurate Prophecies of Agnes Nutter , Witch, the world's only completely accurate book of prophecies written in 1655. The armies of Good and Evil are amassing and everything appears to be going according to Divine Plan. Except that a somewhat fussy angel and a fast-living demon are not actually looking forward to the coming Rapture. And someone seems to have misplaced the Antichrist. Put New York Times b",
+      "totalWords": 113221,
+      "totalPages": 114,
+      "totalChapters": 46
+    },
+    {
       "id": "harry-potter-and-the-sorcerer-s-stone",
       "title": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
@@ -262,6 +271,15 @@
       "totalChapters": 24
     },
     {
+      "id": "the-night-circus",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "description": "",
+      "totalWords": 122299,
+      "totalPages": 123,
+      "totalChapters": 25
+    },
+    {
       "id": "the-raw-shark-texts",
       "title": "The Raw Shark Texts",
       "author": "Steven Hall",
@@ -296,6 +314,15 @@
       "totalWords": 96945,
       "totalPages": 97,
       "totalChapters": 20
+    },
+    {
+      "id": "the-story-of-tea",
+      "title": "The Story of Tea",
+      "author": "Mary Lou Heiss",
+      "description": "Whether it's a delicate green tea or a bracing Assam black, a cup of tea is a complex brew of art and industry, tradition and revolution, East and West. In this sweeping tour through the world of tea, veteran tea traders Mary Lou Heiss and Robert J. Heiss chronicle tea's influence across the globe and provide a complete reference for choosing, drinking, and enjoying this beverage. The Story of Tea begins with a journey along the tea trail, from the lush forests of China, where tea cultivation fi",
+      "totalWords": 150075,
+      "totalPages": 151,
+      "totalChapters": 21
     },
     {
       "id": "the-summer-queen",
@@ -424,5 +451,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T19:22:27.168Z"
+  "updatedAt": "2026-05-24T21:56:46.957Z"
 }
