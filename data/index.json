@@ -244,6 +244,15 @@
       "totalChapters": 37
     },
     {
+      "id": "the-colours-of-our-memories",
+      "title": "The Colours of Our Memories",
+      "author": "Michel Pastoureau",
+      "description": "",
+      "totalWords": 76588,
+      "totalPages": 77,
+      "totalChapters": 15
+    },
+    {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
       "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
       "author": "Edward N. Lorenz",
@@ -496,5 +505,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-24T23:24:15.538Z"
+  "updatedAt": "2026-05-24T23:42:49.107Z"
 }
