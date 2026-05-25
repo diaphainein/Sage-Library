@@ -10,6 +10,15 @@
       "totalChapters": 24
     },
     {
+      "id": "blue-the-history-of-a-color",
+      "title": "Blue: The History of a Color",
+      "author": "Michel Pastoureau",
+      "description": "",
+      "totalWords": 70477,
+      "totalPages": 71,
+      "totalChapters": 15
+    },
+    {
       "id": "cloud-atlas",
       "title": "Cloud Atlas",
       "author": "David Mitchell",
@@ -505,5 +514,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-24T23:42:49.107Z"
+  "updatedAt": "2026-05-25T00:04:56.385Z"
 }
