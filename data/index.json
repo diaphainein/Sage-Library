@@ -127,6 +127,15 @@
       "totalChapters": 24
     },
     {
+      "id": "like-water-for-chocolate",
+      "title": "Like Water for Chocolate",
+      "author": "Laura Esquivel",
+      "description": "",
+      "totalWords": 321215,
+      "totalPages": 322,
+      "totalChapters": 17
+    },
+    {
       "id": "liminality-and-the-modern",
       "title": "Liminality and the Modern",
       "author": "Thomassen, Bjørn",
@@ -514,5 +523,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-25T00:04:56.385Z"
+  "updatedAt": "2026-05-25T20:37:46.150Z"
 }
