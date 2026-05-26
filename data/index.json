@@ -163,6 +163,15 @@
       "totalChapters": 3
     },
     {
+      "id": "love-in-the-time-of-cholera-1985",
+      "title": "Love in the Time of Cholera (1985)",
+      "author": "Gabriel García Márquez",
+      "description": "",
+      "totalWords": 149451,
+      "totalPages": 150,
+      "totalChapters": 30
+    },
+    {
       "id": "more-cajun-humor",
       "title": "More Cajun humor",
       "author": "Wilson, Justin, 1914-2001",
@@ -197,6 +206,15 @@
       "totalWords": 75822,
       "totalPages": 76,
       "totalChapters": 19
+    },
+    {
+      "id": "one-hundred-years-of-solitude",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez; Gregory Rabassa",
+      "description": "SUMMARY: One of the most influential literary works of our time, One Hundred Years of Solitude is a dazzling and original achievement by the masterful Gabriel García Márquez, winner of the Nobel Prize for Literature. One Hundred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendía family. Inventive, amusing, magnetic, sad, and alive with unforgettable men and women -- brimming with truth, compassion, and a lyri",
+      "totalWords": 144606,
+      "totalPages": 145,
+      "totalChapters": 21
     },
     {
       "id": "pale-fire",
@@ -314,6 +332,15 @@
       "totalWords": 28856,
       "totalPages": 29,
       "totalChapters": 6
+    },
+    {
+      "id": "the-house-of-the-spirits",
+      "title": "The House of the Spirits",
+      "author": "Isabel Allende",
+      "description": "The unforgettable first novel that established Isabel Allende as one of the world's most gifted and imaginative storytellers&#8212;now available for the first time as an ebook. The House of the Spirits brings to life the triumphs and tragedies of three generations of the Trueba family. The patriarch Esteban is a volatile, proud man whose voracious pursuit of political power is tempered only by his love for his delicate wife, Clara, a woman with a mystical connection to the spirit world. When the",
+      "totalWords": 178910,
+      "totalPages": 179,
+      "totalChapters": 23
     },
     {
       "id": "the-land-of-the-five-flavors",
@@ -532,5 +559,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-26T02:15:20.351Z"
+  "updatedAt": "2026-05-26T22:03:23.404Z"
 }
