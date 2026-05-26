@@ -37,6 +37,15 @@
       "totalChapters": 198
     },
     {
+      "id": "down-and-out-in-paris-and-london",
+      "title": "Down and Out in Paris and London",
+      "author": "George Orwell",
+      "description": "Three francs will feed you till tomorrow, and you cannot think further than that... As a young man struggling to find his voice as a writer, George Orwell left the comfort of home to live in the impoverished working districts of Paris and London. He would document both the chaos and boredom of destitution, the eccentric cast of characters he encountered, and the near-constant pains of hunger and discomfort. Exposing the grim reality of a life marred by poverty, Down and Out in Paris and London, ",
+      "totalWords": 85257,
+      "totalPages": 86,
+      "totalChapters": 45
+    },
+    {
       "id": "dune",
       "title": "Dune",
       "author": "Frank Herbert",
@@ -523,5 +532,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-25T20:37:46.150Z"
+  "updatedAt": "2026-05-26T02:15:20.351Z"
 }
