@@ -1,0 +1,26 @@
+{
+  "id": "ficciones",
+  "title": "Ficciones",
+  "author": "Jorge Luis Borges",
+  "description": "",
+  "filename": "Ficciones -- Borges, Jorge Luis -- 2011 -- 6d88a1b9f3c4086a93d838a162b5393a -- Anna’s Archive.epub",
+  "totalWords": 42974,
+  "totalPages": 43,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 24829,
+      "pageCount": 25,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 18145,
+      "pageCount": 19,
+      "startPage": 26
+    }
+  ]
+}

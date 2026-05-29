@@ -1,0 +1,54 @@
+{
+  "id": "long-life-essays-and-other-writings",
+  "title": "Long Life : Essays and Other Writings",
+  "author": "Oliver, Mary(Author)",
+  "description": "",
+  "filename": "Long Life _ Essays and Other Writings -- Mary Oliver -- First Paperback Edition, First Edition, PS, 2005 -- Da Capo Press, Incorporated Perseus Books -- isbn13 9780306809958 -- 2c6f183a144c194ab0dd6d82334c628a -- A.pdf",
+  "totalWords": 25720,
+  "totalPages": 26,
+  "totalChapters": 6,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 16
+    },
+    {
+      "index": 5,
+      "title": "Part 5",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 6,
+      "title": "Part 6",
+      "wordCount": 720,
+      "pageCount": 1,
+      "startPage": 26
+    }
+  ]
+}

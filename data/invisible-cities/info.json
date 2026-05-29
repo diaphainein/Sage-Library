@@ -1,0 +1,551 @@
+{
+  "id": "invisible-cities",
+  "title": "Invisible Cities",
+  "author": "Italo Calvino",
+  "description": "In Invisible Cities Marco Polo conjures up cities of magical times for his host, the Chinese ruler Kublai Khan, but gradually it becomes clear that he is actually describing one city: Venice. As Gore Vidal wrote 'Of all tasks, describing the contents of a book is the most difficult and in the case of a marvelous invention like Invisible Cities , perfectly irrelevant.'",
+  "filename": "Invisible Cities -- Calvino, Italo; Weaver, William -- 2008 -- Penguin Random House -- isbn13 9780544133204 -- 5ba56076212570e7efb2417000e21e65 -- Anna’s Archive.epub",
+  "totalWords": 26864,
+  "totalPages": 27,
+  "totalChapters": 77,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Contents",
+      "wordCount": 372,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "About the Author",
+      "wordCount": 63,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Also by Italo Calvino",
+      "wordCount": 74,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 274,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Cities & Memory • 1",
+      "wordCount": 144,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Cities & Memory • 2",
+      "wordCount": 139,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "Cities & Desire • 1",
+      "wordCount": 234,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 8,
+      "title": "Cities & Memory • 3",
+      "wordCount": 316,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 9,
+      "title": "Cities & Desire • 2",
+      "wordCount": 259,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 10,
+      "title": "Cities & Signs • 1",
+      "wordCount": 426,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 11,
+      "title": "Cities & Memory • 4",
+      "wordCount": 306,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 12,
+      "title": "Cities & Desire • 3",
+      "wordCount": 300,
+      "pageCount": 1,
+      "startPage": 12
+    },
+    {
+      "index": 13,
+      "title": "Cities & Signs • 2",
+      "wordCount": 192,
+      "pageCount": 1,
+      "startPage": 13
+    },
+    {
+      "index": 14,
+      "title": "Thin Cities • 1",
+      "wordCount": 224,
+      "pageCount": 1,
+      "startPage": 14
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 515,
+      "pageCount": 1,
+      "startPage": 15
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 699,
+      "pageCount": 1,
+      "startPage": 16
+    },
+    {
+      "index": 17,
+      "title": "Cities & Memory • 5",
+      "wordCount": 323,
+      "pageCount": 1,
+      "startPage": 17
+    },
+    {
+      "index": 18,
+      "title": "Cities & Desire • 4",
+      "wordCount": 268,
+      "pageCount": 1,
+      "startPage": 18
+    },
+    {
+      "index": 19,
+      "title": "Cities & Signs • 3",
+      "wordCount": 256,
+      "pageCount": 1,
+      "startPage": 19
+    },
+    {
+      "index": 20,
+      "title": "Thin Cities • 2",
+      "wordCount": 249,
+      "pageCount": 1,
+      "startPage": 20
+    },
+    {
+      "index": 21,
+      "title": "Trading Cities • 1",
+      "wordCount": 284,
+      "pageCount": 1,
+      "startPage": 21
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 443,
+      "pageCount": 1,
+      "startPage": 22
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 410,
+      "pageCount": 1,
+      "startPage": 23
+    },
+    {
+      "index": 24,
+      "title": "Cities & Desire • 5",
+      "wordCount": 299,
+      "pageCount": 1,
+      "startPage": 24
+    },
+    {
+      "index": 25,
+      "title": "Cities & Signs • 4",
+      "wordCount": 461,
+      "pageCount": 1,
+      "startPage": 25
+    },
+    {
+      "index": 26,
+      "title": "Thin Cities • 3",
+      "wordCount": 346,
+      "pageCount": 1,
+      "startPage": 26
+    },
+    {
+      "index": 27,
+      "title": "Trading Cities • 2",
+      "wordCount": 281,
+      "pageCount": 1,
+      "startPage": 27
+    },
+    {
+      "index": 28,
+      "title": "Cities & Eyes • 1",
+      "wordCount": 320,
+      "pageCount": 1,
+      "startPage": 28
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 253,
+      "pageCount": 1,
+      "startPage": 29
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 424,
+      "pageCount": 1,
+      "startPage": 30
+    },
+    {
+      "index": 31,
+      "title": "Cities & Signs • 5",
+      "wordCount": 362,
+      "pageCount": 1,
+      "startPage": 31
+    },
+    {
+      "index": 32,
+      "title": "Thin Cities • 4",
+      "wordCount": 211,
+      "pageCount": 1,
+      "startPage": 32
+    },
+    {
+      "index": 33,
+      "title": "Trading Cities • 3",
+      "wordCount": 309,
+      "pageCount": 1,
+      "startPage": 33
+    },
+    {
+      "index": 34,
+      "title": "Cities & Eyes • 2",
+      "wordCount": 195,
+      "pageCount": 1,
+      "startPage": 34
+    },
+    {
+      "index": 35,
+      "title": "Cities & Names • 1",
+      "wordCount": 344,
+      "pageCount": 1,
+      "startPage": 35
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 195,
+      "pageCount": 1,
+      "startPage": 36
+    },
+    {
+      "index": 37,
+      "title": "Chapter 37",
+      "wordCount": 358,
+      "pageCount": 1,
+      "startPage": 37
+    },
+    {
+      "index": 38,
+      "title": "Thin Cities • 5",
+      "wordCount": 184,
+      "pageCount": 1,
+      "startPage": 38
+    },
+    {
+      "index": 39,
+      "title": "Trading Cities • 4",
+      "wordCount": 196,
+      "pageCount": 1,
+      "startPage": 39
+    },
+    {
+      "index": 40,
+      "title": "Cities & Eyes • 3",
+      "wordCount": 172,
+      "pageCount": 1,
+      "startPage": 40
+    },
+    {
+      "index": 41,
+      "title": "Cities & Names • 2",
+      "wordCount": 473,
+      "pageCount": 1,
+      "startPage": 41
+    },
+    {
+      "index": 42,
+      "title": "Cities & the Dead • 1",
+      "wordCount": 372,
+      "pageCount": 1,
+      "startPage": 42
+    },
+    {
+      "index": 43,
+      "title": "Chapter 43",
+      "wordCount": 76,
+      "pageCount": 1,
+      "startPage": 43
+    },
+    {
+      "index": 44,
+      "title": "Chapter 44",
+      "wordCount": 488,
+      "pageCount": 1,
+      "startPage": 44
+    },
+    {
+      "index": 45,
+      "title": "Trading Cities • 5",
+      "wordCount": 347,
+      "pageCount": 1,
+      "startPage": 45
+    },
+    {
+      "index": 46,
+      "title": "Cities & Eyes • 4",
+      "wordCount": 376,
+      "pageCount": 1,
+      "startPage": 46
+    },
+    {
+      "index": 47,
+      "title": "Cities & Names • 3",
+      "wordCount": 307,
+      "pageCount": 1,
+      "startPage": 47
+    },
+    {
+      "index": 48,
+      "title": "Cities & the Dead • 2",
+      "wordCount": 504,
+      "pageCount": 1,
+      "startPage": 48
+    },
+    {
+      "index": 49,
+      "title": "Cities & the Sky • 1",
+      "wordCount": 408,
+      "pageCount": 1,
+      "startPage": 49
+    },
+    {
+      "index": 50,
+      "title": "Chapter 50",
+      "wordCount": 362,
+      "pageCount": 1,
+      "startPage": 50
+    },
+    {
+      "index": 51,
+      "title": "Chapter 51",
+      "wordCount": 349,
+      "pageCount": 1,
+      "startPage": 51
+    },
+    {
+      "index": 52,
+      "title": "Cities & Eyes • 5",
+      "wordCount": 193,
+      "pageCount": 1,
+      "startPage": 52
+    },
+    {
+      "index": 53,
+      "title": "Cities & Names • 4",
+      "wordCount": 631,
+      "pageCount": 1,
+      "startPage": 53
+    },
+    {
+      "index": 54,
+      "title": "Cities & the Dead • 3",
+      "wordCount": 463,
+      "pageCount": 1,
+      "startPage": 54
+    },
+    {
+      "index": 55,
+      "title": "Cities & the Sky • 2",
+      "wordCount": 486,
+      "pageCount": 1,
+      "startPage": 55
+    },
+    {
+      "index": 56,
+      "title": "Continuous Cities • 1",
+      "wordCount": 563,
+      "pageCount": 1,
+      "startPage": 56
+    },
+    {
+      "index": 57,
+      "title": "Chapter 57",
+      "wordCount": 222,
+      "pageCount": 1,
+      "startPage": 57
+    },
+    {
+      "index": 58,
+      "title": "Chapter 58",
+      "wordCount": 647,
+      "pageCount": 1,
+      "startPage": 58
+    },
+    {
+      "index": 59,
+      "title": "Cities & Names • 5",
+      "wordCount": 377,
+      "pageCount": 1,
+      "startPage": 59
+    },
+    {
+      "index": 60,
+      "title": "Cities & the Dead • 4",
+      "wordCount": 145,
+      "pageCount": 1,
+      "startPage": 60
+    },
+    {
+      "index": 61,
+      "title": "Cities & the Sky • 3",
+      "wordCount": 221,
+      "pageCount": 1,
+      "startPage": 61
+    },
+    {
+      "index": 62,
+      "title": "Continuous Cities • 2",
+      "wordCount": 202,
+      "pageCount": 1,
+      "startPage": 62
+    },
+    {
+      "index": 63,
+      "title": "Hidden Cities • 1",
+      "wordCount": 315,
+      "pageCount": 1,
+      "startPage": 63
+    },
+    {
+      "index": 64,
+      "title": "Chapter 64",
+      "wordCount": 322,
+      "pageCount": 1,
+      "startPage": 64
+    },
+    {
+      "index": 65,
+      "title": "Chapter 65",
+      "wordCount": 1158,
+      "pageCount": 2,
+      "startPage": 65
+    },
+    {
+      "index": 66,
+      "title": "Cities & the Dead • 5",
+      "wordCount": 769,
+      "pageCount": 1,
+      "startPage": 67
+    },
+    {
+      "index": 67,
+      "title": "Cities & the Sky • 4",
+      "wordCount": 267,
+      "pageCount": 1,
+      "startPage": 68
+    },
+    {
+      "index": 68,
+      "title": "Continuous Cities • 3",
+      "wordCount": 491,
+      "pageCount": 1,
+      "startPage": 69
+    },
+    {
+      "index": 69,
+      "title": "Hidden Cities • 2",
+      "wordCount": 352,
+      "pageCount": 1,
+      "startPage": 70
+    },
+    {
+      "index": 70,
+      "title": "Cities & the Sky • 5",
+      "wordCount": 402,
+      "pageCount": 1,
+      "startPage": 71
+    },
+    {
+      "index": 71,
+      "title": "Continuous Cities • 4",
+      "wordCount": 452,
+      "pageCount": 1,
+      "startPage": 72
+    },
+    {
+      "index": 72,
+      "title": "Hidden Cities • 3",
+      "wordCount": 467,
+      "pageCount": 1,
+      "startPage": 73
+    },
+    {
+      "index": 73,
+      "title": "Continuous Cities • 5",
+      "wordCount": 492,
+      "pageCount": 1,
+      "startPage": 74
+    },
+    {
+      "index": 74,
+      "title": "Hidden Cities • 4",
+      "wordCount": 369,
+      "pageCount": 1,
+      "startPage": 75
+    },
+    {
+      "index": 75,
+      "title": "Hidden Cities • 5",
+      "wordCount": 556,
+      "pageCount": 1,
+      "startPage": 76
+    },
+    {
+      "index": 76,
+      "title": "Chapter 76",
+      "wordCount": 375,
+      "pageCount": 1,
+      "startPage": 77
+    },
+    {
+      "index": 77,
+      "title": "Copyright",
+      "wordCount": 185,
+      "pageCount": 1,
+      "startPage": 78
+    }
+  ]
+}

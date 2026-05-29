@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "arctic-dreams",
+      "title": "Arctic Dreams",
+      "author": "Barry Lopez",
+      "description": "In his National Book Award–winning masterwork about imagination and desire in a northern landscape, revered writer Barry Lopez carries readers on a breathtaking journey into the heart of one of the world’s last frontiers In this award-winning classic, Barry Lopez explores the ways the human imagination engages with a landscape at once barren and beautiful, perilous and alluring, austere yet teeming with vibrant life, and shot through with human history. The Arctic has for centuries been a destin",
+      "totalWords": 157801,
+      "totalPages": 158,
+      "totalChapters": 34
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -46,6 +55,15 @@
       "totalChapters": 45
     },
     {
+      "id": "dream-work",
+      "title": "Dream Work",
+      "author": "Mary Oliver",
+      "description": "Dream Work , a collection of forty-five poems, follows both chrono&#173;logically and logically Mary Oliver's American Primitive , which won her the Pulitzer Prize for the finest book of poetry published in 1983 by an American poet. The depth and diversity of perceptual awareness&#8212;so steadfast and radiant in American Primitive&#8212; continue in Dream Work. She has turned her attention in these poems to the solitary and difficult labors of the spirit&#8212;to accepting the truth about one's",
+      "totalWords": 8251,
+      "totalPages": 9,
+      "totalChapters": 50
+    },
+    {
       "id": "dune",
       "title": "Dune",
       "author": "Frank Herbert",
@@ -53,6 +71,15 @@
       "totalWords": 207126,
       "totalPages": 208,
       "totalChapters": 58
+    },
+    {
+      "id": "ficciones",
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "description": "",
+      "totalWords": 42974,
+      "totalPages": 43,
+      "totalChapters": 2
     },
     {
       "id": "godel-escher-bach-an-eternal-golden-braid",
@@ -71,6 +98,15 @@
       "totalWords": 113221,
       "totalPages": 114,
       "totalChapters": 46
+    },
+    {
+      "id": "h-is-for-hawk",
+      "title": "H Is for Hawk",
+      "author": "Helen Macdonald",
+      "description": "",
+      "totalWords": 98683,
+      "totalPages": 99,
+      "totalChapters": 20
     },
     {
       "id": "harry-potter-and-the-sorcerer-s-stone",
@@ -100,6 +136,15 @@
       "totalChapters": 40
     },
     {
+      "id": "invisible-cities",
+      "title": "Invisible Cities",
+      "author": "Italo Calvino",
+      "description": "In Invisible Cities Marco Polo conjures up cities of magical times for his host, the Chinese ruler Kublai Khan, but gradually it becomes clear that he is actually describing one city: Venice. As Gore Vidal wrote 'Of all tasks, describing the contents of a book is the most difficult and in the case of a marvelous invention like Invisible Cities , perfectly irrelevant.'",
+      "totalWords": 26864,
+      "totalPages": 27,
+      "totalChapters": 77
+    },
+    {
       "id": "justin-wilson-s-cajun-humor",
       "title": "Justin Wilson's Cajun humor",
       "author": "Wilson, Justin, 1914-2001;Jacobs, Howard",
@@ -107,6 +152,15 @@
       "totalWords": 20173,
       "totalPages": 21,
       "totalChapters": 5
+    },
+    {
+      "id": "labyrinths",
+      "title": "Labyrinths",
+      "author": "Jorge Luis Borges",
+      "description": "Although his work has been restricted to the short story, the essay, and poetry, Jorge Luis Borges of Argentina is recognized all over the world as one of the most original and significant figures in modern literature. In his preface André Maurois writes: \"Borges is a great writer who has composed only little essays or short narratives. Yet they suffice for us to call him great because of their wonderful intelligence, their wealth of invention, and their tight, almost mathematical style.\" Labyri",
+      "totalWords": 92934,
+      "totalPages": 93,
+      "totalChapters": 51
     },
     {
       "id": "learning-to-love-the-spaces-in-between",
@@ -154,6 +208,15 @@
       "totalChapters": 25
     },
     {
+      "id": "long-life-essays-and-other-writings",
+      "title": "Long Life : Essays and Other Writings",
+      "author": "Oliver, Mary(Author)",
+      "description": "",
+      "totalWords": 25720,
+      "totalPages": 26,
+      "totalChapters": 6
+    },
+    {
       "id": "love-poems-new-directions-paperbook",
       "title": "Love Poems (New Directions Paperbook)",
       "author": "Neruda, Pablo [Neruda, Pablo]",
@@ -170,6 +233,15 @@
       "totalWords": 149451,
       "totalPages": 150,
       "totalChapters": 30
+    },
+    {
+      "id": "magic-for-beginners",
+      "title": "Magic for Beginners",
+      "author": "Kelly Link",
+      "description": "Link's engaging and funny second collection -- call it kitchen-sink magical realism -- riffs on haunted convenience stores, husbands and wives, rabbits, zombies, weekly apocalyptic poker parties, witches, superheroes, marriage, and cannons -- and includes several new stories.",
+      "totalWords": 72286,
+      "totalPages": 73,
+      "totalChapters": 12
     },
     {
       "id": "more-cajun-humor",
@@ -226,6 +298,15 @@
       "totalChapters": 17
     },
     {
+      "id": "pilgrim-at-tinker-creek",
+      "title": "Pilgrim at Tinker Creek",
+      "author": "Annie Dillard",
+      "description": "Pilgrim at Tinker Creek is the story of a dramatic year in Virginia's Blue Ridge valley. Annie Dillard sets out to see what she can see. What she sees are astonishing incidents of \"mystery, death, beauty, violence.\"",
+      "totalWords": 0,
+      "totalPages": 0,
+      "totalChapters": 0
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -251,6 +332,15 @@
       "totalWords": 53848,
       "totalPages": 54,
       "totalChapters": 12
+    },
+    {
+      "id": "the-bloody-chamber-and-other-stories",
+      "title": "The Bloody Chamber and Other Stories",
+      "author": "Angela Carter",
+      "description": "WITH AN INTRODUCTION BY HELEN SIMPSON From familiar fairy tales and legends - Red Riding Hood, Bluebeard, Puss in Boots, Beauty and the Beast, vampires and werewolves - Angela Carter has created an absorbing collection of dark, sensual, fantastic stories.",
+      "totalWords": 60457,
+      "totalPages": 61,
+      "totalChapters": 15
     },
     {
       "id": "the-alchemist",
@@ -296,6 +386,15 @@
       "totalWords": 76588,
       "totalPages": 77,
       "totalChapters": 15
+    },
+    {
+      "id": "the-complete-cosmicomics",
+      "title": "The Complete Cosmicomics",
+      "author": "Italo Calvino",
+      "description": "Enchanting stories about the evolution of the universe, with characters that are fashioned from mathematical formulae and cellular structures. They disport themselves among galaxies, experience the solidification of planets, move from aquatic to terrestrial existence, play games with hydrogen atoms - and have time for a love life. 'Naturally, we were all there, - old Qfwfq said, - where else could we have been? Nobody knew then that there could be space. Or time either: what use did we have for ",
+      "totalWords": 126173,
+      "totalPages": 127,
+      "totalChapters": 40
     },
     {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
@@ -368,6 +467,15 @@
       "totalWords": 55080,
       "totalPages": 56,
       "totalChapters": 24
+    },
+    {
+      "id": "the-lottery-and-other-stories-fsg-classics",
+      "title": "The Lottery and Other Stories (FSG Classics)",
+      "author": "Shirley Jackson",
+      "description": "",
+      "totalWords": 83309,
+      "totalPages": 84,
+      "totalChapters": 17
     },
     {
       "id": "the-night-circus",
@@ -505,6 +613,15 @@
       "totalChapters": 0
     },
     {
+      "id": "we-have-always-lived-in-the-castle",
+      "title": "We Have Always Lived in the Castle",
+      "author": "Jackson, Shirley",
+      "description": "",
+      "totalWords": 56375,
+      "totalPages": 57,
+      "totalChapters": 12
+    },
+    {
       "id": "zodiac-academy-3-the-reckoning-an-academy-bully-romance-supernatural-bullies-and-beasts",
       "title": "Zodiac Academy 3: The Reckoning: An Academy Bully Romance (Supernatural Bullies and Beasts)",
       "author": "Caroline Peckham",
@@ -559,5 +676,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-26T22:03:23.404Z"
+  "updatedAt": "2026-05-29T08:14:22.248Z"
 }
