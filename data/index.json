@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "a-gentleman-in-moscow",
+      "title": "A Gentleman in Moscow",
+      "author": "Amor Towles",
+      "description": "\"The book moves briskly from one crisp scene to the next, and ultimately casts a spell as captivating as Rules of Civility , a book that inhales you into its seductively Gatsby-esque universe.\" &#8212; Town & Country From the New York Times bestselling author of Rules of Civility &#8212;a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel With his breakout debut novel, Rules of Civility , Amor Towles established himself as a master of absorbing, sop",
+      "totalWords": 153497,
+      "totalPages": 154,
+      "totalChapters": 55
+    },
+    {
       "id": "arctic-dreams",
       "title": "Arctic Dreams",
       "author": "Barry Lopez",
@@ -301,7 +310,7 @@
       "id": "pilgrim-at-tinker-creek",
       "title": "Pilgrim at Tinker Creek",
       "author": "Annie Dillard",
-      "description": "Pilgrim at Tinker Creek is the story of a dramatic year in Virginia's Blue Ridge valley. Annie Dillard sets out to see what she can see. What she sees are astonishing incidents of \"mystery, death, beauty, violence.\"",
+      "description": "Pilgrim at Tinker Creek is the story of a dramatic year in Virginia's Blue Ridge valley. Annie Dillard sets out to see what she can see. What she sees are astonishing incidents of \"mystery, death, beauty, violence.\" A personal narrative of one year spent exploring the natural wonders, curiosities, frights and revelations experienced by naturalist Annie Dillard in her own backyard.",
       "totalWords": 0,
       "totalPages": 0,
       "totalChapters": 0
@@ -323,6 +332,15 @@
       "totalWords": 149588,
       "totalPages": 150,
       "totalChapters": 30
+    },
+    {
+      "id": "salt-slow",
+      "title": "Salt Slow",
+      "author": "Julia Armfield",
+      "description": "'Armfield is an enormous, gut-wrenching talent.' Daisy Johnson, author of Everything Under ' salt slow is exemplary. A distinct new gothic, melancholy, powerful and poised.' China Miéville, author of The City & The City This collection of short stories is about women and their experiences in society, about bodies and the bodily, mapping the skin and bones of its characters through their experiences of isolation, obsession and love. Throughout the collection, women become insects, men turn to sto",
+      "totalWords": 49198,
+      "totalPages": 50,
+      "totalChapters": 13
     },
     {
       "id": "slaughterhouse-five-publisher-dell",
@@ -676,5 +694,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-29T08:14:22.248Z"
+  "updatedAt": "2026-06-01T22:01:06.199Z"
 }

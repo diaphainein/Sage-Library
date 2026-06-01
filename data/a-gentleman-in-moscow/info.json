@@ -1,0 +1,397 @@
+{
+  "id": "a-gentleman-in-moscow",
+  "title": "A Gentleman in Moscow",
+  "author": "Amor Towles",
+  "description": "\"The book moves briskly from one crisp scene to the next, and ultimately casts a spell as captivating as Rules of Civility , a book that inhales you into its seductively Gatsby-esque universe.\" &#8212; Town & Country From the New York Times bestselling author of Rules of Civility &#8212;a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel With his breakout debut novel, Rules of Civility , Amor Towles established himself as a master of absorbing, sop",
+  "filename": "A Gentleman in Moscow _ A Novel -- Towles, Amor -- Kirkus Prize For Fiction Finalist, 2016 -- Penguin Publishing Group -- isbn13 9780099558781 -- 28134a2876e6952b2add0406d1292c37 -- Anna’s Archive.epub",
+  "totalWords": 153497,
+  "totalPages": 154,
+  "totalChapters": 55,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 141,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 114,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Epigraph",
+      "wordCount": 135,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 794,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "1922: An Ambassador",
+      "wordCount": 3683,
+      "pageCount": 4,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "An Anglican Ashore",
+      "wordCount": 4200,
+      "pageCount": 5,
+      "startPage": 9
+    },
+    {
+      "index": 7,
+      "title": "An Appointment",
+      "wordCount": 2758,
+      "pageCount": 3,
+      "startPage": 14
+    },
+    {
+      "index": 8,
+      "title": "An Acquaintanceship",
+      "wordCount": 3324,
+      "pageCount": 4,
+      "startPage": 17
+    },
+    {
+      "index": 9,
+      "title": "Anyway . . .",
+      "wordCount": 1787,
+      "pageCount": 2,
+      "startPage": 21
+    },
+    {
+      "index": 10,
+      "title": "Around and About",
+      "wordCount": 3996,
+      "pageCount": 4,
+      "startPage": 23
+    },
+    {
+      "index": 11,
+      "title": "An Assembly",
+      "wordCount": 4211,
+      "pageCount": 5,
+      "startPage": 27
+    },
+    {
+      "index": 12,
+      "title": "Archeologies",
+      "wordCount": 3952,
+      "pageCount": 4,
+      "startPage": 32
+    },
+    {
+      "index": 13,
+      "title": "Advent",
+      "wordCount": 5502,
+      "pageCount": 6,
+      "startPage": 36
+    },
+    {
+      "index": 14,
+      "title": "1923: An Actress, an Apparition, an Apiary",
+      "wordCount": 7135,
+      "pageCount": 8,
+      "startPage": 42
+    },
+    {
+      "index": 15,
+      "title": "Addendum",
+      "wordCount": 588,
+      "pageCount": 1,
+      "startPage": 50
+    },
+    {
+      "index": 16,
+      "title": "1924: Anonymity",
+      "wordCount": 5294,
+      "pageCount": 6,
+      "startPage": 51
+    },
+    {
+      "index": 17,
+      "title": "1926: Adieu",
+      "wordCount": 8053,
+      "pageCount": 9,
+      "startPage": 57
+    },
+    {
+      "index": 18,
+      "title": "1930",
+      "wordCount": 546,
+      "pageCount": 1,
+      "startPage": 66
+    },
+    {
+      "index": 19,
+      "title": "Arachne’s Art",
+      "wordCount": 6124,
+      "pageCount": 7,
+      "startPage": 67
+    },
+    {
+      "index": 20,
+      "title": "An Afternoon Assignation",
+      "wordCount": 4247,
+      "pageCount": 5,
+      "startPage": 74
+    },
+    {
+      "index": 21,
+      "title": "An Alliance",
+      "wordCount": 3200,
+      "pageCount": 4,
+      "startPage": 79
+    },
+    {
+      "index": 22,
+      "title": "Absinthe",
+      "wordCount": 4887,
+      "pageCount": 5,
+      "startPage": 83
+    },
+    {
+      "index": 23,
+      "title": "Addendum",
+      "wordCount": 321,
+      "pageCount": 1,
+      "startPage": 88
+    },
+    {
+      "index": 24,
+      "title": "1938: An Arrival",
+      "wordCount": 2689,
+      "pageCount": 3,
+      "startPage": 89
+    },
+    {
+      "index": 25,
+      "title": "Adjustments",
+      "wordCount": 3804,
+      "pageCount": 4,
+      "startPage": 92
+    },
+    {
+      "index": 26,
+      "title": "Ascending, Alighting",
+      "wordCount": 9028,
+      "pageCount": 10,
+      "startPage": 96
+    },
+    {
+      "index": 27,
+      "title": "Addendum",
+      "wordCount": 62,
+      "pageCount": 1,
+      "startPage": 106
+    },
+    {
+      "index": 28,
+      "title": "1946",
+      "wordCount": 1206,
+      "pageCount": 2,
+      "startPage": 107
+    },
+    {
+      "index": 29,
+      "title": "Antics, Antitheses, an Accident",
+      "wordCount": 12957,
+      "pageCount": 13,
+      "startPage": 109
+    },
+    {
+      "index": 30,
+      "title": "Addendum",
+      "wordCount": 836,
+      "pageCount": 1,
+      "startPage": 122
+    },
+    {
+      "index": 31,
+      "title": "1950: Adagio, Andante, Allegro",
+      "wordCount": 5675,
+      "pageCount": 6,
+      "startPage": 123
+    },
+    {
+      "index": 32,
+      "title": "1952: America",
+      "wordCount": 5019,
+      "pageCount": 6,
+      "startPage": 129
+    },
+    {
+      "index": 33,
+      "title": "1953: Apostles and Apostates",
+      "wordCount": 7628,
+      "pageCount": 8,
+      "startPage": 135
+    },
+    {
+      "index": 34,
+      "title": "1954: Applause and Acclaim",
+      "wordCount": 3249,
+      "pageCount": 4,
+      "startPage": 143
+    },
+    {
+      "index": 35,
+      "title": "Achilles Agonistes",
+      "wordCount": 2130,
+      "pageCount": 3,
+      "startPage": 147
+    },
+    {
+      "index": 36,
+      "title": "Arrivederci",
+      "wordCount": 2226,
+      "pageCount": 3,
+      "startPage": 150
+    },
+    {
+      "index": 37,
+      "title": "Adulthood",
+      "wordCount": 1889,
+      "pageCount": 2,
+      "startPage": 153
+    },
+    {
+      "index": 38,
+      "title": "An Announcement",
+      "wordCount": 2691,
+      "pageCount": 3,
+      "startPage": 155
+    },
+    {
+      "index": 39,
+      "title": "Anecdotes",
+      "wordCount": 2383,
+      "pageCount": 3,
+      "startPage": 158
+    },
+    {
+      "index": 40,
+      "title": "An Association",
+      "wordCount": 1233,
+      "pageCount": 2,
+      "startPage": 161
+    },
+    {
+      "index": 41,
+      "title": "Antagonists at Arms (And an Absolution)",
+      "wordCount": 3978,
+      "pageCount": 4,
+      "startPage": 163
+    },
+    {
+      "index": 42,
+      "title": "Apotheoses",
+      "wordCount": 3652,
+      "pageCount": 4,
+      "startPage": 167
+    },
+    {
+      "index": 43,
+      "title": "Afterwards . . .",
+      "wordCount": 2834,
+      "pageCount": 3,
+      "startPage": 171
+    },
+    {
+      "index": 44,
+      "title": "And Anon",
+      "wordCount": 918,
+      "pageCount": 1,
+      "startPage": 174
+    },
+    {
+      "index": 45,
+      "title": "Chapter 45",
+      "wordCount": 99,
+      "pageCount": 1,
+      "startPage": 175
+    },
+    {
+      "index": 46,
+      "title": "Chapter 46",
+      "wordCount": 934,
+      "pageCount": 1,
+      "startPage": 176
+    },
+    {
+      "index": 47,
+      "title": "Chapter 47",
+      "wordCount": 75,
+      "pageCount": 1,
+      "startPage": 177
+    },
+    {
+      "index": 48,
+      "title": "Chapter 48",
+      "wordCount": 92,
+      "pageCount": 1,
+      "startPage": 178
+    },
+    {
+      "index": 49,
+      "title": "Chapter 49",
+      "wordCount": 116,
+      "pageCount": 1,
+      "startPage": 179
+    },
+    {
+      "index": 50,
+      "title": "Chapter 50",
+      "wordCount": 248,
+      "pageCount": 1,
+      "startPage": 180
+    },
+    {
+      "index": 51,
+      "title": "Chapter 51",
+      "wordCount": 161,
+      "pageCount": 1,
+      "startPage": 181
+    },
+    {
+      "index": 52,
+      "title": "Chapter 52",
+      "wordCount": 88,
+      "pageCount": 1,
+      "startPage": 182
+    },
+    {
+      "index": 53,
+      "title": "Chapter 53",
+      "wordCount": 151,
+      "pageCount": 1,
+      "startPage": 183
+    },
+    {
+      "index": 54,
+      "title": "Chapter 54",
+      "wordCount": 337,
+      "pageCount": 1,
+      "startPage": 184
+    },
+    {
+      "index": 55,
+      "title": "Chapter 55",
+      "wordCount": 117,
+      "pageCount": 1,
+      "startPage": 185
+    }
+  ]
+}
