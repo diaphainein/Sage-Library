@@ -10,6 +10,15 @@
       "totalChapters": 55
     },
     {
+      "id": "a-girl-s-guide-to-chicago",
+      "title": "A girl's guide to Chicago",
+      "author": "Russell, Kelly Z, author",
+      "description": "",
+      "totalWords": 75386,
+      "totalPages": 76,
+      "totalChapters": 16
+    },
+    {
       "id": "arctic-dreams",
       "title": "Arctic Dreams",
       "author": "Barry Lopez",
@@ -44,6 +53,15 @@
       "totalWords": 164059,
       "totalPages": 165,
       "totalChapters": 16
+    },
+    {
+      "id": "critical-hits",
+      "title": "Critical Hits",
+      "author": "Carmen Maria Machado",
+      "description": "",
+      "totalWords": 76183,
+      "totalPages": 77,
+      "totalChapters": 24
     },
     {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
@@ -125,6 +143,15 @@
       "totalWords": 83084,
       "totalPages": 84,
       "totalChapters": 17
+    },
+    {
+      "id": "her-body-and-other-parties",
+      "title": "Her Body and Other Parties",
+      "author": "Carmen Maria Machado",
+      "description": "Longlisted for the National Book Award for Fiction \"[These stories] vibrate with originality, queerness, sensuality and the strange.\"&#8212;Roxane Gay \"In these formally brilliant and emotionally charged tales, Machado gives literal shape to women's memories and hunger and desire. I couldn't put it down.\"&#8212;Karen Russell In Her Body and Other Parties , Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy ",
+      "totalWords": 72399,
+      "totalPages": 73,
+      "totalChapters": 13
     },
     {
       "id": "his-dark-materials-the-complete-trilogy",
@@ -694,5 +721,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-01T22:01:06.199Z"
+  "updatedAt": "2026-06-03T18:54:04.111Z"
 }
