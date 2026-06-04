@@ -100,6 +100,15 @@
       "totalChapters": 58
     },
     {
+      "id": "fever-dream",
+      "title": "Fever Dream",
+      "author": "Samanta Schweblin",
+      "description": "\"A wonderful nightmare of a book: tender and frightening, disturbing but compassionate. Fever Dream is a triumph of Schweblin's outlandish imagination.\" &#8211;Juan Gabriel Vasquez, author of The Sound of Things Falling and Reputations A young woman named Amanda lies dying in a rural hospital clinic. A boy named David sits beside her. She's not his mother. He's not her child. Together, they tell a haunting story of broken souls, toxins, and the power and desperation of family. Fever Dream is a n",
+      "totalWords": 26408,
+      "totalPages": 27,
+      "totalChapters": 4
+    },
+    {
       "id": "ficciones",
       "title": "Ficciones",
       "author": "Jorge Luis Borges",
@@ -296,6 +305,15 @@
       "totalWords": 73092,
       "totalPages": 74,
       "totalChapters": 8
+    },
+    {
+      "id": "mouthful-of-birds",
+      "title": "Mouthful of Birds",
+      "author": "Samanta Schweblin",
+      "description": "\"Superb\" &#8212; Vogue \"What makes Schweblin so startling as a writer, however, what makes her rare and important , is that she is impelled not by mere talent or ambition but by vision.\" &#8212; New York Times A powerful, eerily unsettling story collection from a major international literary star. The brilliant stories in Mouthful of Birds burrow their way into your psyche and don't let go. Samanta Schweblin haunts and mesmerizes in this extraordinary collection featuring women on the edge, men ",
+      "totalWords": 52666,
+      "totalPages": 53,
+      "totalChapters": 23
     },
     {
       "id": "nonlinear-dynamics-and-chaos",
@@ -721,5 +739,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-03T18:54:04.111Z"
+  "updatedAt": "2026-06-04T19:44:31.778Z"
 }
