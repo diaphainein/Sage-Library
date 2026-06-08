@@ -1,0 +1,117 @@
+{
+  "id": "the-yellow-wallpaper",
+  "title": "The Yellow Wallpaper",
+  "author": "Charlotte Perkins Gilman",
+  "description": "",
+  "filename": "The Yellow Wallpaper -- Gilman, Charlotte Perkins -- 2020 -- Amazon Classics -- a1669dceb732333fb1003c40cd1c484f -- Anna’s Archive.epub",
+  "totalWords": 6368,
+  "totalPages": 7,
+  "totalChapters": 15,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "COPYRIGHT PAGE",
+      "wordCount": 106,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "CONTENTS",
+      "wordCount": 40,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "It is very...",
+      "wordCount": 955,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "We have been...",
+      "wordCount": 1120,
+      "pageCount": 2,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Well, the Fourth...",
+      "wordCount": 538,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 6,
+      "title": "I don’t know...",
+      "wordCount": 460,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "It is so...",
+      "wordCount": 516,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 8,
+      "title": "On a pattern...",
+      "wordCount": 552,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 9,
+      "title": "Life is very...",
+      "wordCount": 122,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 10,
+      "title": "I’m feeling ever...",
+      "wordCount": 373,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 11,
+      "title": "I really have...",
+      "wordCount": 149,
+      "pageCount": 1,
+      "startPage": 12
+    },
+    {
+      "index": 12,
+      "title": "I think that...",
+      "wordCount": 242,
+      "pageCount": 1,
+      "startPage": 13
+    },
+    {
+      "index": 13,
+      "title": "If only that...",
+      "wordCount": 169,
+      "pageCount": 1,
+      "startPage": 14
+    },
+    {
+      "index": 14,
+      "title": "Hurrah! This is...",
+      "wordCount": 904,
+      "pageCount": 1,
+      "startPage": 15
+    },
+    {
+      "index": 15,
+      "title": "ABOUT THE AUTHOR",
+      "wordCount": 122,
+      "pageCount": 1,
+      "startPage": 16
+    }
+  ]
+}

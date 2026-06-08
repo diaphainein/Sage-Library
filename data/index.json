@@ -181,6 +181,15 @@
       "totalChapters": 40
     },
     {
+      "id": "i-am-a-strange-loop",
+      "title": "I Am a Strange Loop",
+      "author": "Hofstadter, Douglas R.",
+      "description": "",
+      "totalWords": 181601,
+      "totalPages": 182,
+      "totalChapters": 37
+    },
+    {
       "id": "invisible-cities",
       "title": "Invisible Cities",
       "author": "Italo Calvino",
@@ -325,6 +334,15 @@
       "totalChapters": 35
     },
     {
+      "id": "neither-ghost-nor-machine",
+      "title": "Neither Ghost nor Machine",
+      "author": "Jeremy Sherman",
+      "description": "If the universe is aimless, how do selves and aims emerge? Why do living beings have aims when inanimate things do not? Current science encourages us to reject the ghost-in-the-machine explanation&#8212;that something called spirit, soul, mind, or will was somehow breathed into matter&#8212;and instead accept that selves are just matter, in aimless mechanistic motion like everything else. But what about life's many emergent qualities, the multifarious purposes that shape actual physical behavior",
+      "totalWords": 90230,
+      "totalPages": 91,
+      "totalChapters": 36
+    },
+    {
       "id": "new-orleans",
       "title": "New Orleans",
       "author": "Elizabeth M. Williams",
@@ -458,6 +476,24 @@
       "totalWords": 126173,
       "totalPages": 127,
       "totalChapters": 40
+    },
+    {
+      "id": "mit-press-essential-knowledge-conscious-mind",
+      "title": "MIT Press Essential Knowledge : Conscious Mind",
+      "author": "Torey, Zoltan(Author)",
+      "description": "",
+      "totalWords": 39731,
+      "totalPages": 40,
+      "totalChapters": 8
+    },
+    {
+      "id": "the-conscious-mind-in-search-of-a-fundamental-theory",
+      "title": "The Conscious Mind_ In Search of a Fundamental Theory",
+      "author": "David John Chalmers, David J. Chalmers",
+      "description": "",
+      "totalWords": 200082,
+      "totalPages": 201,
+      "totalChapters": 41
     },
     {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
@@ -640,6 +676,15 @@
       "totalChapters": 67
     },
     {
+      "id": "the-yellow-wallpaper",
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "description": "",
+      "totalWords": 6368,
+      "totalPages": 7,
+      "totalChapters": 15
+    },
+    {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
       "title": "The Art of Gathering: How We Meet and Why It Matters",
       "author": "Priya Parker",
@@ -739,5 +784,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-04T19:44:31.778Z"
+  "updatedAt": "2026-06-08T14:08:42.081Z"
 }

@@ -1,0 +1,68 @@
+{
+  "id": "mit-press-essential-knowledge-conscious-mind",
+  "title": "MIT Press Essential Knowledge : Conscious Mind",
+  "author": "Torey, Zoltan(Author)",
+  "description": "",
+  "filename": "The Conscious Mind (The MIT Press Essential Knowledge -- Torey, Zoltan (author_) -- MIT Press essential knowledge series, 1, 2014 -- The Mit Press, -- isbn13 9780262319300 -- eaaf3788e825e8e5064c2283ad7e3c4b -- Ann.pdf",
+  "totalWords": 39731,
+  "totalPages": 40,
+  "totalChapters": 8,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 16
+    },
+    {
+      "index": 5,
+      "title": "Part 5",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 6,
+      "title": "Part 6",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 26
+    },
+    {
+      "index": 7,
+      "title": "Part 7",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 31
+    },
+    {
+      "index": 8,
+      "title": "Part 8",
+      "wordCount": 4731,
+      "pageCount": 5,
+      "startPage": 36
+    }
+  ]
+}
