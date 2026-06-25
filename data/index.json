@@ -37,6 +37,15 @@
       "totalChapters": 24
     },
     {
+      "id": "black-the-history-of-a-color",
+      "title": "Black : the history of a color",
+      "author": "Pastoureau, Michel, 1947-",
+      "description": "",
+      "totalWords": 77024,
+      "totalPages": 78,
+      "totalChapters": 16
+    },
+    {
       "id": "blue-the-history-of-a-color",
       "title": "Blue: The History of a Color",
       "author": "Michel Pastoureau",
@@ -134,6 +143,15 @@
       "totalWords": 113221,
       "totalPages": 114,
       "totalChapters": 46
+    },
+    {
+      "id": "green-the-history-of-a-color",
+      "title": "Green : the history of a color",
+      "author": "Pastoureau, Michel, 1947-",
+      "description": "",
+      "totalWords": 76413,
+      "totalPages": 77,
+      "totalChapters": 16
     },
     {
       "id": "h-is-for-hawk",
@@ -395,6 +413,15 @@
       "totalWords": 149588,
       "totalPages": 150,
       "totalChapters": 30
+    },
+    {
+      "id": "red-the-history-of-a-color-translated-by-jody-gladding",
+      "title": "Red _ the history of a color ; translated by Jody Gladding",
+      "author": "Michel Pastoureau",
+      "description": "",
+      "totalWords": 0,
+      "totalPages": 0,
+      "totalChapters": 0
     },
     {
       "id": "salt-slow",
@@ -784,5 +811,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-08T14:08:42.081Z"
+  "updatedAt": "2026-06-25T18:52:56.313Z"
 }
