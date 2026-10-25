@@ -1,0 +1,26 @@
+{
+  "id": "the-wicker-husband",
+  "title": "The Wicker Husband",
+  "author": "saff1",
+  "description": "",
+  "filename": "The Wicker Husband -- Ursula Willis-Jones -- None -- e2d05aa1f6616d2f710ae0dbe500c716 -- Anna’s Archive.pdf",
+  "totalWords": 6263,
+  "totalPages": 7,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 1263,
+      "pageCount": 2,
+      "startPage": 6
+    }
+  ]
+}

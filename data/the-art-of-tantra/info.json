@@ -1,0 +1,61 @@
+{
+  "id": "the-art-of-tantra",
+  "title": "The art of Tantra",
+  "author": "Rawson, Philip S",
+  "description": "",
+  "filename": "The art of Tantra_ with 169 illustrations, 25 in colour -- Philip S_ Rawson -- The world of art library, Revised edition, Thames ; Hudson, -- London_ -- isbn13 9780500201664 -- b13de325977b9ec527a8b8be52dd8c09 -- A.pdf",
+  "totalWords": 32695,
+  "totalPages": 33,
+  "totalChapters": 7,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 3,
+      "title": "Part 3",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 4,
+      "title": "Part 4",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 16
+    },
+    {
+      "index": 5,
+      "title": "Part 5",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 21
+    },
+    {
+      "index": 6,
+      "title": "Part 6",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 26
+    },
+    {
+      "index": 7,
+      "title": "Part 7",
+      "wordCount": 2695,
+      "pageCount": 3,
+      "startPage": 31
+    }
+  ]
+}

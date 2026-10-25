@@ -694,6 +694,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-wicker-husband",
+      "title": "The Wicker Husband",
+      "author": "saff1",
+      "description": "",
+      "totalWords": 6263,
+      "totalPages": 7,
+      "totalChapters": 2
+    },
+    {
       "id": "the-world-history-of-beekeeping-and-honey-hunting",
       "title": "The World History of Beekeeping and Honey Hunting",
       "author": "Eva Crane",
@@ -710,6 +719,15 @@
       "totalWords": 6368,
       "totalPages": 7,
       "totalChapters": 15
+    },
+    {
+      "id": "the-art-of-tantra",
+      "title": "The art of Tantra",
+      "author": "Rawson, Philip S",
+      "description": "",
+      "totalWords": 32695,
+      "totalPages": 33,
+      "totalChapters": 7
     },
     {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
@@ -811,5 +829,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-06-25T18:52:56.313Z"
+  "updatedAt": "2026-10-25T04:08:17.510Z"
 }
